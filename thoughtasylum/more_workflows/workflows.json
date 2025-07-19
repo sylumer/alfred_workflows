@@ -1,0 +1,101 @@
+{"items": [
+	{
+		"uid": "com.thoughtasylum.bypass",
+		"title": "Bypass",
+		"subtitle": "Control Apple Shortcuts from Alfred",
+		"arg": "https://www.thoughtasylum.com/alfred/alfred_bypass_for_shortcuts/",
+		"icon": {
+			"path": "more_workflows/bypass.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.cluster",
+		"title": "Cluster",
+		"subtitle": "Control Bunch from Alfred",
+		"arg": "https://cluster.thoughtasylum.com/",
+		"icon": {
+			"path": "more_workflows/cluster.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.conductor",
+		"title": "Conductor",
+		"subtitle": "Control Keyboard Maestro from Alfred",
+		"arg": "https://www.thoughtasylum.com/alfred/alfred_conductor_for_keyboard_maestro",
+		"icon": {
+			"path": "more_workflows/conductor.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.dispenser",
+		"title": "Dispenser",
+		"subtitle": "Control TextSoap from Alfred",
+		"arg": "https://www.thoughtasylum.com/alfred/alfred_dispenser_for_textsoap",
+		"icon": {
+			"path": "more_workflows/conductor.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.doctordrafts",
+		"title": "Doctor Drafts",
+		"subtitle": "Control Keyboard Maestro from Alfred",
+		"arg": "https://doctordrafts.com",
+		"icon": {
+			"path": "more_workflows/doctordrafts.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.dose",
+		"title": "Dose",
+		"subtitle": "Control Amphetamine from Alfred",
+		"arg": "https://www.thoughtasylum.com/2021/03/22/alfred-workflow-amphetamine-app/",
+		"icon": {
+			"path": "more_workflows/dose.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.factor",
+		"title": "Factor",
+		"subtitle": "Control Warp from Alfred",
+		"arg": "https://www.thoughtasylum.com/alfred/alfred_factor_for_warp",
+		"icon": {
+			"path": "more_workflows/factor.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.moom-ing",
+		"title": "Moom-ing",
+		"subtitle": "Control Moom from Alfred",
+		"arg": "https://www.thoughtasylum.com/alfred/alfred_moom-ing_for_moom",
+		"icon": {
+			"path": "more_workflows/moom-ing.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.scaffolding",
+		"title": "Scaffolding",
+		"subtitle": "Sylumer's workflow infrastructure test workflow",
+		"arg": "https://www.thoughtasylum.com",
+		"icon": {
+			"path": "more_workflows/scaffolding.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.slink",
+		"title": "Slink",
+		"subtitle": "Control Search Link from Alfred",
+		"arg": "https://www.thoughtasylum.com/alfred/alfred_slink_for_searchlink",
+		"icon": {
+			"path": "more_workflows/slink.png"
+		}
+	},
+	{
+		"uid": "7e9c07db-a967-42b1-8b14-c7cda37b1a32",
+		"title": "Even More Workflows",
+		"subtitle": "Browse the full range of Alfred workflows from Thoughtasylum",
+		"arg": "https://www.thoughtasylum.com/alfred/#downloadable-alfred-workflows",
+		"icon": {
+			"path": "more_workflows/thoughtasylum.png"
+		}
+	}
+]}
