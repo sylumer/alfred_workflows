@@ -20,7 +20,7 @@
 	{
 		"uid": "404d7d16-f088-419d-b38c-5fef78372917",
 		"title": "Get More Alfred Workflows",
-		"subtitle": "Browse more Alfred workflows from Thoughtasylum..."",
+		"subtitle": "Browse more Alfred workflows from Thoughtasylum...",
 		"arg": "workflows",
 		"icon": {
 			"path": "extras/thoughtasylum.png"
