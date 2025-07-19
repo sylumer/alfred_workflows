@@ -3,7 +3,7 @@
 # Subfolder path is first parameter and must be provided
 
 # Define path  to local destination folder and clear it out
-DEST="$HOME/Sync/Alfred/Alfred.alfredpreferences/workflows/$alfred_workflow_uid/$1"
+DEST="$HOME/Sync/Alfred/Alfred.alfredpreferences/workflows/$alfred_workflow_uid/$(basename $1)"
 rm -rf "$DEST" && mkdir -p "$DEST"
 
 # Identify files to download from the workflow's resources location on GitHub
