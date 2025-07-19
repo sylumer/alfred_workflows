@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/zsh --no-rcs
 
 # Process more workflows JSON and remove the entry for the current workflow
 awk -v uid="$alfred_workflow_bundleid" '
