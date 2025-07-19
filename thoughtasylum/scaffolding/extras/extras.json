@@ -1,0 +1,29 @@
+{"items": [
+	{
+		"uid": "7ed29f9b-2329-4c40-ab06-43749ec6e74a",
+		"title": "Donate a Coffee to Scaffold's Creator",
+		"subtitle": "Buy Sylumer a coffee for all his hard work",
+		"arg": "https://www.buymeacoffee.com/sylumer",
+		"icon": {
+			"path": "extras/buymeacoffee.png"
+		}
+	},
+	{
+		"uid": "2a685374-c708-40f3-a217-76617f895cd8",
+		"title": "Blog Posts - Alfred",
+		"subtitle": "Useful Alfred blog posts by Sylumer",
+		"arg": "https://www.thoughtasylum.com/alfred/#alfred-posts/",
+		"icon": {
+			"path": "extras/alfred.png"
+		}
+	},
+	{
+		"uid": "404d7d16-f088-419d-b38c-5fef78372917",
+		"title": "Get More Alfred Workflows",
+		"subtitle": "Browse more Alfred workflows from Thoughtasylum..."",
+		"arg": "workflows",
+		"icon": {
+			"path": "extras/thoughtasylum.png"
+		}
+	}
+]}
