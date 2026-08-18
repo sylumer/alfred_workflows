@@ -81,6 +81,15 @@
 		}
 	},
 	{
+		"uid": "com.thoughtasylum.sentinel",
+		"title": "Sentinel",
+		"subtitle": "Interact with the Sentinel app from Alfred",
+		"arg": "https://www.thoughtasylum.com/alfred/#downloadable-alfred-workflows",
+		"icon": {
+			"path": "more_workflows/sentinel.png"
+		}
+	},
+	{
 		"uid": "com.thoughtasylum.slink",
 		"title": "Slink",
 		"subtitle": "Control Search Link from Alfred",
