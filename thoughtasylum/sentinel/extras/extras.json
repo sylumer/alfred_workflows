@@ -9,30 +9,12 @@
 		}
 	},
 	{
-		"uid": "0d7b5b63-2da2-43df-811f-7d7b4f093ae1",
-		"title": "Keyboard Maestro Plugin - Apple Shortcuts",
-		"subtitle": "A Keyboard Maestro plugin to make calling Shortcuts super easy",
-		"arg": "https://www.thoughtasylum.com/2021/12/05/a-keyboard-maestro-plugin-for-apple-shortcuts/",
-		"icon": {
-			"path": "extras/shortcuts.png"
-		}
-	},
-	{
 		"uid": "2a685374-c708-40f3-a217-76617f895cd8",
 		"title": "Blog Posts - Alfred",
 		"subtitle": "Useful Alfred blog posts by Sylumer",
 		"arg": "https://www.thoughtasylum.com/alfred/#alfred-posts/",
 		"icon": {
 			"path": "extras/alfred.png"
-		}
-	},
-	{
-		"uid": "eb0ed231-de43-4ee7-96df-b5ecd980d020",
-		"title": "Blog Posts - Keyboard Maestro",
-		"subtitle": "Useful Keyboard Maestro blog posts by Sylumer",
-		"arg": "https://www.thoughtasylum.com/tags/keyboard-maestro/",
-		"icon": {
-			"path": "extras/keyboardmaestro.png"
 		}
 	},
 	{
