@@ -32,7 +32,7 @@
 		"subtitle": "Control TextSoap from Alfred",
 		"arg": "https://www.thoughtasylum.com/alfred/alfred_dispenser_for_textsoap",
 		"icon": {
-			"path": "more_workflows/conductor.png"
+			"path": "more_workflows/dispenser.png"
 		}
 	},
 	{
@@ -96,6 +96,15 @@
 		"arg": "https://www.thoughtasylum.com/alfred/alfred_slink_for_searchlink",
 		"icon": {
 			"path": "more_workflows/slink.png"
+		}
+	},
+	{
+		"uid": "com.thoughtasylum.splashterminal",
+		"title": "Splash Terminal",
+		"subtitle": "Use a throw-away terminal for quick commands",
+		"arg": "https://www.thoughtasylum.com/alfred/#downloadable-alfred-workflows",
+		"icon": {
+			"path": "more_workflows/splash terminal.png"
 		}
 	},
 	{
