@@ -72,6 +72,15 @@
 		}
 	},
 	{
+		"uid": "com.thoughtasylum.port",
+		"title": "Port Checker",
+		"subtitle": "A utility to help check port processes",
+		"arg": "https://www.thoughtasylum.com/alfred/#downloadable-alfred-workflows",
+		"icon": {
+			"path": "more_workflows/port checker.png"
+		}
+	},
+	{
 		"uid": "com.thoughtasylum.scaffolding",
 		"title": "Scaffolding",
 		"subtitle": "Sylumer's workflow infrastructure test workflow",
